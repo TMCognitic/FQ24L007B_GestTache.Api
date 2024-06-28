@@ -1,0 +1,6 @@
+@FQ24L007B_GestTache.Api_HostAddress = http://localhost:5076
+
+GET {{FQ24L007B_GestTache.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
